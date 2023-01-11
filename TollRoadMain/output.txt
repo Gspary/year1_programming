@@ -1,0 +1,98 @@
+OE08OQF: 900 added successfully
+CJ65DVB: 600 added successfully
+UJ12CRW: 900 added successfully
+KR60XNS: Trip completed succesfully
+ZM02EUX: Trip completed succesfully
+CE02ESF: Trip completed succesfully
+JT11YMK: Trip failed to complete. tollroadmain.CustomerNotFoundException
+LO17FFK: Trip completed succesfully
+GV14RRM: Trip completed succesfully
+ZR60JGI: Trip completed succesfully
+GP66KQL: Trip completed succesfully
+ZR60JGI: 4000 added successfully
+GV14RRM: Trip completed succesfully
+QJ55HTR: Trip completed succesfully
+HQ09WIJ: Trip completed succesfully
+WQ10FZI: Trip failed to complete. tollroadmain.CustomerNotFoundException
+ZR60JGI: Trip completed succesfully
+YS06ESV: Trip completed succesfully
+ZJ04XSG: Trip completed succesfully
+ZJ04XSG: Trip completed succesfully
+ZJ04XSG: 2000 added successfully
+TR52YTU: Trip failed to complete. tollroadmain.CustomerNotFoundException
+CJ65DVB: Trip completed succesfully
+OG57MWO: Trip failed to complete. tollroadmain.CustomerNotFoundException
+ZQ11PMI: Trip failed to complete. tollroadmain.CustomerNotFoundException
+BB14UPJ: Trip completed succesfully
+RD16GDY: Trip completed succesfully
+IL12KYE: Trip completed succesfully
+BQ63HWH: Trip failed to complete. tollroadmain.CustomerNotFoundException
+ZR60JGI: Trip completed succesfully
+QM17VBV: Trip failed to complete. tollroadmain.CustomerNotFoundException
+ND53BHO: Trip completed succesfully
+OD14STV: Trip completed succesfully
+CJ65DVB: Trip completed succesfully
+NK62WPC: Trip completed succesfully
+HE52JEL: 500 added successfully
+IL12KYE: Trip completed succesfully
+HI14WRW: Trip completed succesfully
+FL55YST: Trip failed to complete. tollroadmain.CustomerNotFoundException
+EK02DEU: Trip failed to complete. tollroadmain.CustomerNotFoundException
+JH67HRE: Trip completed succesfully
+LU16KLS: 1500 added successfully
+RD16GDY: Trip completed succesfully
+HE52JEL: Trip completed succesfully
+HE52JEL: 1000 added successfully
+HE57YSO: Trip completed succesfully
+NK62WPC: 15000 added successfully
+CI60ESO: Trip failed to complete. tollroadmain.CustomerNotFoundException
+ZJ04XSG: Trip completed succesfully
+YL09PTN: Trip completed succesfully
+VS56SYX: Trip completed succesfully
+OD14STV: Trip completed succesfully
+QJ55HTR: 900 added successfully
+CE02ESF: Trip completed succesfully
+RD16GDY: Trip completed succesfully
+YJ55XPM: 1000 added successfully
+LU16KLS: Trip completed succesfully
+TY62BSA: Trip failed to complete. tollroadmain.CustomerNotFoundException
+UJ12CRW: Trip completed succesfully
+JH67HRE: Trip completed succesfully
+YJ55XPM: Trip completed succesfully
+CJ65DVB: Trip completed succesfully
+HQ09WIJ: 1100 added successfully
+HE57YSO: Trip completed succesfully
+WZ14EWB: Trip completed succesfully
+ID08GMV: Trip completed succesfully
+ZM02EUX: Trip completed succesfully
+OZ53PUX: Trip completed succesfully
+QJ55HTR: Trip completed succesfully
+ND53BHO: 2000 added successfully
+VS56SYX: Trip completed succesfully
+JF15BCM: Trip completed succesfully
+QJ55HTR: Trip completed succesfully
+ZD04UKP: Trip completed succesfully
+ZD04UKP: 1500 added successfully
+ZD04UKP: Trip completed succesfully
+ZM02EUX: Trip completed succesfully
+WZ14EWB: Trip completed succesfully
+ES66WHE: Trip failed to complete. tollroadmain.CustomerNotFoundException
+VB58LNG: Trip failed to complete. tollroadmain.CustomerNotFoundException
+NK62WPC: Trip completed succesfully
+KY09MDZ: Trip completed succesfully
+KR60XNS: Trip completed succesfully
+YJ55XPM: Trip completed succesfully
+HC17NRJ: Trip completed succesfully
+HH01VMY: Trip failed to complete. tollroadmain.CustomerNotFoundException
+KY09MDZ: Trip completed succesfully
+CJ65DVB: Trip completed succesfully
+FM66JPE: Trip completed succesfully
+NK62WPC: Trip completed succesfully
+CB13IIZ: Trip completed succesfully
+GV14RRM: Trip completed succesfully
+ZM02EUX: Trip completed succesfully
+JF15BCM: 1000 added successfully
+JF15BCM: Trip completed succesfully
+KY09MDZ: Trip completed succesfully
+VS56SYX: Trip completed succesfully
+This toll road has made: 45825
